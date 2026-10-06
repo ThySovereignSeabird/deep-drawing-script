@@ -1,2 +1,7 @@
 pyserial
 requests
+
+numpy
+soundfile
+pyroomacoustics
+torch

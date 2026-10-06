@@ -56,6 +56,7 @@ WORDS_TO_PLOT = ["dragon"]  # add more Quick, Draw! filenames to queue
 
 @dataclass
 class PositionSample:
+    """Position sample."""
     t: float
     x: float
     y: float
